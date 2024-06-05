@@ -9,6 +9,8 @@ This is a very dangerous malware
 
 # Lets party
 womp womp :)
+This script trying to remove the os from computer (this thing is very dangerous for victim computer.)
+Please type "y" because if you type "n" u can say goodbye for your computer :(
 
 # IMPORTANT
 this script run only on windows systems based!!!
